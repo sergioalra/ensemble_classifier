@@ -1,6 +1,6 @@
 function tutorial_entrenamiento()
 %--------------------------------------------------------------------------
-% Ultima actulazacion Novimebre 2020 por Sergio Ramirez
+% Ultima actualizacion Novimebre 2020 por Sergio Ramirez
 %--------------------------------------------------------------------------
 
 % -------------------------------------------------------------------------
